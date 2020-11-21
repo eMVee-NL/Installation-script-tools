@@ -21,7 +21,7 @@ git clone https://github.com/maurosoria/dirsearch.git
 git clone https://github.com/BloodHoundAD/BloodHound.git
 
 #Install GVM - OpenVas
-apt-get install gvm* -ys
+apt-get install gvm* -y
 gvm-setup
 #gvm-start
 
